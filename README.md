@@ -1,5 +1,6 @@
 # html-web-page
 Html ile ilk web sayfamı oluşturuyorum.
+Bu repo index.html ve readme.md dosyalarından oluşmuştur. Detaylar index.html'in içerisinde bulunmaktadır.
 
 
 
